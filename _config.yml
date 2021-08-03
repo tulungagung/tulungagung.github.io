@@ -1,0 +1,49 @@
+# Site settings
+title: Delta Network
+description: > # this means to ignore newlines until "baseurl:"
+ Tulungagung Network and Repository.
+baseurl: ""
+url: "https://tanet.eu.org"
+permalink: /:title/
+full-url: "tanet.eu.org"
+
+# CSS
+sass:
+  style: compressed
+
+# Comments - Go to Disqus.com > sign up > get the short-name > insert it here
+disqus-shortname: 
+
+# Tracker
+analytics:
+
+# Form Settings
+#
+# Contact form can be enabled by getting an API key from https://getsimpleform.com/
+simpleform-token: b6d4be9b039b666b3311e1ddcbfb577c
+
+# Redirect users after submitting the form
+redirect-to: https://tanet.eu.org
+
+# Site version
+version: 1.0.1
+
+# Post date background
+change-date-bg: no
+
+# Build settings
+markdown: kramdown
+
+include: [_pages] # Includes files inside _pages directory [Do not remove this]
+
+author:
+  name: Candro
+  image: deltahunter.jpg
+  about:
+  twitter: DonCandro
+  facebook: delta.web.id
+  email: cs@delta.web.id
+
+plugins: 
+  - jekyll-seo-tag
+  - jekyll-paginate

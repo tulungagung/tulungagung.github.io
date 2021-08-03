@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll*
+Gemfile*
+.vscode
+# For OS File
+.DS_Store
+desktop.ini
+thumbs.db
+ehthumbs.db
