@@ -6,7 +6,7 @@ date:   2019-10-23 10:50:00 +0700
 categories: code
 author: candro
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+All documentation about google indexing will post here.
 
 
 ![]({{site.baseurl}}/images/lost-9.jpg)
